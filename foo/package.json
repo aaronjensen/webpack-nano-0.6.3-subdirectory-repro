@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.36.1",
+    "webpack-nano": "0.6.3"
+  }
+}
